@@ -52,7 +52,7 @@ const { siteIcp, version } = configPublic;
 const linkData = {
   github: "https://github.com/deerwan",
   home: "https://952780.xyz",
-  email: "739914756@qq.com",
+  email: "mailto:739914756@qq.com",
 };
 </script>
 
